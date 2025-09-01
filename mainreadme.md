@@ -14,9 +14,9 @@
   3. git commit
   4. push
   5. pull\
-~~By Mistake~~\
-- [x] complete\
-- [ ] incomplete\
+~~By Mistake~~
+- [x] complete
+- [ ] incomplete
 - [x] done js \
 ![lion image](https://cdn.britannica.com/29/150929-050-547070A1/lion-Kenya-Masai-Mara-National-Reserve.jpg)
 
